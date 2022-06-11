@@ -3,7 +3,7 @@
 #include <iostream>
 #include <numeric>
 #include <fstream>
-#include "src-gen/exercise_2.pb.h"
+#include "exercise_2.pb.h"
 
 void exercise_1_2()
 {

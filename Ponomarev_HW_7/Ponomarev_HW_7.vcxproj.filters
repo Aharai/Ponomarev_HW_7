@@ -21,6 +21,9 @@
     <ClCompile Include="exercise_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise_2.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise_2.hpp">
@@ -29,10 +32,8 @@
     <ClInclude Include="exercise_3.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="exercise_2.proto">
+    <ClInclude Include="exercise_2.pb.h">
       <Filter>Header Files</Filter>
-    </None>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
-#include "src-gen/exercise_2.pb.h"
+#include "exercise_2.pb.h"
 
 namespace SG
 {
